@@ -1,0 +1,23 @@
+.container {
+    background-color: rgba(159, 212, 223, 0.722);
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    
+    color: white;
+    background-color: rgb(118, 173, 35);
+    border-radius: 2px;
+    margin-top: 40px;
+}
